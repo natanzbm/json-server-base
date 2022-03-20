@@ -51,7 +51,7 @@ Com este endpoint você pode registrar qualquer jogo que você queira adicionar 
 {
     "title": "God of War",
     "platform": "Playstation 5",
-	"genre": "Action RPG"
+    "genre": "Action RPG"
 }
 ```
 
@@ -68,6 +68,6 @@ Este endpoint permite que você registre jogos que deseja trocar ou vender, os c
     "title": "Bloodborne",
     "platform": "Playstation 4",
     "price": 80,
-	"genre": "Action RPG"
+    "genre": "Action RPG"
 }
 ```
