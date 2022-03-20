@@ -6,6 +6,19 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "steve@mail.com",
+      "password": "$2a$10$u6K9pliipLoZXp4Zb2QiEukIXCXJu28ahPq.2YryeCoNvHmIBfdP2",
+      "id": 2
+    },
+    {
+      "email": "maria@mail.com",
+      "password": "$2a$10$6r4/93.JQN7fqAHej0g5JuEttkSNJmCzu2XO4Xer0NFryIGTIzvD2",
+      "age": 29,
+      "id": 3
     }
-  ]
+  ],
+  "catalogue": [],
+  "trade": []
 }
