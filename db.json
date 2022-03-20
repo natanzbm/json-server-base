@@ -17,8 +17,84 @@
       "password": "$2a$10$6r4/93.JQN7fqAHej0g5JuEttkSNJmCzu2XO4Xer0NFryIGTIzvD2",
       "age": 29,
       "id": 3
+    },
+    {
+      "email": "joao@mail.com",
+      "password": "$2a$10$XiZYUrzjBzcyIGNWE2kpjuX5wZofHNY5Lkt9bwB/jnITgB27bpJxm",
+      "name": "João",
+      "age": 38,
+      "id": 4
+    },
+    {
+      "email": "pedro@mail.com",
+      "password": "$2a$10$CJPvl6OjEoR1xx/bBK/Hwu2Lyik415CiPJ5EHmpeLISpROMG2jt.a",
+      "name": "Pedro",
+      "age": 19,
+      "id": 5
     }
   ],
-  "catalogue": [],
-  "trade": []
+  "catalogue": [
+    {
+      "title": "Gof of War 3",
+      "platform": "Playstation 3",
+      "genre": "Hack n' Slash",
+      "userId": 3,
+      "id": 1
+    },
+    {
+      "title": "Zelda Minish Cap",
+      "platform": "GameBoy Advance",
+      "genre": "JRPG",
+      "userId": 3,
+      "id": 2
+    },
+    {
+      "title": "Zelda Breath of the Wild",
+      "platform": "Nintendo Switch",
+      "genre": "Action JRPG",
+      "userId": 4,
+      "id": 3
+    },
+    {
+      "title": "Horizon Zero Dawn Forbidden West",
+      "platform": "Playstation 5",
+      "genre": "Action RPG",
+      "userId": 1,
+      "id": 4
+    }
+  ],
+  "trade": [
+    {
+      "title": "Gran Turismo 7",
+      "platform": "Playstation 5",
+      "genre": "Simulator",
+      "price": 150,
+      "userId": 4,
+      "id": 1
+    },
+    {
+      "title": "Horizon Zero Dawn",
+      "platform": "Playstation 4",
+      "genre": "Action RPG",
+      "price": 100,
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "title": "Hotline Miami",
+      "platform": "Playstation 4",
+      "genre": "Indie",
+      "price": 30,
+      "userId": 5,
+      "id": 3
+    },
+    {
+      "title": "Genshin Impact",
+      "platform": "Playstation 4",
+      "genre": "Action JRPG",
+      "price": 50,
+      "userId": 5,
+      "id": 4
+    }
+  ]
 }
